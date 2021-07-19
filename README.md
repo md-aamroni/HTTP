@@ -11,4 +11,4 @@ Hypertext Transfer Protocol (HTTP) is an application-layer protocol for transmit
 
 <br>
 
-> [Please Click to Learn More](index.php)
+> For More Details Please Run This `index.php` on Your Browser or Local Server
